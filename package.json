@@ -1,0 +1,31 @@
+{
+  "name": "tdd-exercises",
+  "version": "1.0.0",
+  "description": "TDD Exercises - project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "check": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lofty-Brambles/TDD-Exercises.git"
+  },
+  "keywords": [],
+  "author": "Lofty Brambles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lofty-Brambles/TDD-Exercises/issues"
+  },
+  "homepage": "https://github.com/Lofty-Brambles/TDD-Exercises#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-loader": "^8.2.5",
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.1.1",
+    "prettier": "^2.7.1"
+  }
+}
